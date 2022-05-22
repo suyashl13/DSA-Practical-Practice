@@ -54,8 +54,7 @@ void display()
 int main(int argc, char const *argv[])
 {
     make_book_contents();
-    cout << endl
-         << endl;
+    cout << endl;
     display();
     return 0;
 }
